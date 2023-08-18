@@ -2,5 +2,25 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "prettier.documentSelectors": ["**/*.sol"],
-  "solidity.formatter": "prettier"
+  "solidity.formatter": "prettier",
+  "cSpell.words": [
+    "ARBISCAN",
+    "arbitrum",
+    "BSCSCAN",
+    "esbenp",
+    "geeorgipehlianov",
+    "lcov",
+    "Nomic",
+    "nomicfoundation",
+    "POLYGONSCAN",
+    "Razvan",
+    "reexecution",
+    "ritwickdey",
+    "sepolia",
+    "SNOWTRACE",
+    "Solcover",
+    "solhint",
+    "trivago",
+    "typechain"
+  ]
 }
